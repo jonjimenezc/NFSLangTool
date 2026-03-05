@@ -1,8 +1,10 @@
-# LT (LangTool)
+# LangTool
 
-A lightweight tool that allows you to quickly change the game language configuration without manually editing files or registry values.
+A lightweight tool that allows you to quickly change the Need for Speed Most Wanted language configuration without manually editing files or registry values.
 
 LT modifies the Windows registry language key and applies the correct **sound folder** for the language you select.
+
+Available languages: Spanish and English
 
 ---
 
