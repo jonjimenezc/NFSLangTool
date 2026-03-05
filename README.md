@@ -1,4 +1,4 @@
-# LangTool
+# NFSLangTool
 
 A lightweight tool that allows you to quickly change the Need for Speed Most Wanted language configuration without manually editing files or registry values.
 
@@ -20,7 +20,7 @@ Available languages: Spanish and English
 
 ## 🚀 How to Use
 
-1. Run **LangTool**.
+1. Run **NFSLangTool**.
 2. Select the language you want to use.
 3. The tool will automatically:
    - Update the registry language key
