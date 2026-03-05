@@ -20,7 +20,7 @@ Available languages: Spanish and English
 
 ## 🚀 How to Use
 
-1. Run **LT (LangTool)**.
+1. Run **LangTool**.
 2. Select the language you want to use.
 3. The tool will automatically:
    - Update the registry language key
